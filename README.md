@@ -1,5 +1,5 @@
 # StepDetector
-Step detector - PC server - press/release key
+Step detector - PC server - press/release Up key
 
 1. Install StepDetector app on an android mobile phone.
 2. Start PC server motion_server.py
